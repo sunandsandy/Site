@@ -1,0 +1,33 @@
+
+page contents
+
+1) logo ((MAYBE which carries forward smaller fly over the page ))
+
+file:///E:/Sun%20&%20Sandy/Original%20sources/Unzipped/SednaTemplate_PeterFinlan/Sedna/index.html
+
+
+2) MENU dropdown vertical with the + symbol
+ 	
+
+Read more link style? https://tympanus.net/Development/CreativeLinkEffects/#cl-effect-9
+
+
+3) auto rotating slideshow for blogs with a style
+
+
+ arrow styles file(slide):///E:/Sun%20&%20Sandy/Original%20sources/Unzipped/ArrowNavigationStyles/ArrowNavigationStyles/index.html
+
+dot style file (hop):///E:/Sun%20&%20Sandy/Original%20sources/Unzipped/DotNavigationStyles/DotNavigationStyles/index.html
+hop
+
+4) who am i?
+
+
+
+6) Social media plug ins
+file:///E:/Sun%20&%20Sandy/Original%20sources/Unzipped/ElasticSVGElements/ElasticSVGElements/circlemenu.html
+
+or
+
+file:///E:/Sun%20&%20Sandy/Original%20sources/Unzipped/fixed-middle-right-nav-master/index.html
+
